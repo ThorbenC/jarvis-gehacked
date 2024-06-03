@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    display: flex;
+    margin-right: auto;
+    width: 100px;
+    height: 40px;
+}
+.balk {
+    display: flex;
+    background-color: #000563;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    color: white;
+    width: 100%  ;
+}
+.home {
+    display: flex;
+}
+.universe {
+    display: flex;
+}
+.reviews {
+    display: flex;
+}
+.feedback {
+    display: flex;
+    background-color: white;
+    color: greenyellow;
+    height: 50px;
+    align-items: center;
+    border-radius: 10px;
+    width: 85px;
+}
+.doelen {
+    display: flex;
+}
+.leaderboard {
+    display: flex;
+}
+.meer {
+    display: flex;
+}
+.credits {
+    display: flex;
+}
+.level {
+    display: flex;
+    background-color: aqua;
+    width: 200px;
+    justify-content: center;
+    border-radius: 10px;
+    height: 35px;
+    align-items: center ;
+    margin-top: 3px;
+}
+.rechtsbalk {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    justify-content: space-between;
+    width: 360px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.tabel {
+    display: flex;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 200px;
+    width: 40%;
+    margin-right: 34px;
+    min-width: 400px;
+}
+
+
+.over {
+    display: flex;
+    flex-direction: column;
+    width: 295px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.over img {
+    height: 100px;
+}
+
+.knop {
+    display: flex;
+    background-color: greenyellow;
+    height: 30px;
+    width: 60px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.h1 {
+    margin-left: 20%;
+}
+
+.middenbalk {
+    display: flex;
+    flex-direction: row;
+}
+
+.middenbalk img {
+    display: flex;
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    padding: 7px;
+}
+
+.rechtsbalk img {
+    height: 25px;
+    width: 25px;
+}
+
+.profile img {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.opp {
+    display: flex;
+}
+
+.credits img {
+    padding-top: 13px;
+}
+.gg {
+    position: absolute;
+    background-color: lightblue;
+    height: 35px;
+    width: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.space {
+    margin: 20px;
+}
